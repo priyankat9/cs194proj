@@ -8,7 +8,7 @@ import json
 
 #load model 
 
-model = tf.keras.models.load_model('model/model1.h5')
+model = tf.keras.models.load_model('model1.h5')
 
 #headers 
 st.write("""
